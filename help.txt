@@ -2,4 +2,4 @@ ativar venv: .\venv\scripts\activate
 
 criar venv: python -m venv venv
 
-install kivy: pip install kivymd=1.1.1
+install kivy: pip install kivymd==1.1.1
